@@ -1,4 +1,7 @@
-Alt-Hello there! I'm Peggy Carambas 👋
+<p align="center">
+#Hello there! 
+I'm Peggy Carambas 👋
+</p>
 
 
 
