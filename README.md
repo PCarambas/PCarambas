@@ -1,7 +1,7 @@
-<p align="center">
+
 # **Hello there. I'm Peggy Carambas** 👋
   ### It's very niice to meet you!
-</p>
+
 
 
 
