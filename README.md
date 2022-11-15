@@ -4,6 +4,8 @@
 ## Software Developer, lover of tech & design that make living life easier.
 ### It's so nice to meet you!
 
+## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwind,vscode)](https://skillicons.dev)
   
 
