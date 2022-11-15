@@ -1,13 +1,11 @@
 
 # **Hello there, I'm Peggy Carambas** 👋 
 
-## Software Developer and lover of tech and design that makes living life easier.
+## Software Developer, lover of tech & design that make living life easier.
+### It's so nice to meet you!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwind,vscode)](https://skillicons.dev)
   
-
-
-
 
 - 🌱 I’m currently learning C# at Nashville Software Scool
 
@@ -15,6 +13,8 @@
 
 - ⚡ Fun fact: Once upon a time, I was a firefighter.
 
-- 📫 How to reach me:
-..* e-mail: PCarambas@gmail.com
+- 📫 How to reach me: 
+- * [e-mail](PCarambas@gmail.com)
+- * [LinkedIn](https://www.linkedin.com/in/peggy-carambas/)
+- * [GitHub](https://github.com/PCarambas)
 -->
