@@ -1,6 +1,10 @@
 
-# **Hello there. I'm Peggy Carambas** 👋
-  ### It's very niice to meet you!
+# **Hello there, I'm Peggy Carambas** 👋 ### It's very nice to meet you!
+
+## Software Developer
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwindvscode)](https://skillicons.dev)
+  
 
 
 
