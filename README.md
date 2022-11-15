@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Once upon a time, I was a firefighter.
 
 - 📫 How to reach me: 
-- * [Contact Peggy](mailto:PCarambas@gmail.com)
+- * [Contact Peggy](mailto: PCarambas@gmail.com)
 - * [LinkedIn](https://www.linkedin.com/in/peggy-carambas/)
- * [GitHub](https://github.com/PCarambas)
+- * [GitHub](https://github.com/PCarambas)
 
