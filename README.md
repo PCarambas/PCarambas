@@ -1,7 +1,7 @@
 
-# **Hello there, I'm Peggy Carambas** 👋 
+# **Hello there, I'm Peggy** 👋 
 
-## Software Developer, lover of tech & design that make living life easier.
+### Software Developer, lover of tech & design that make living life easier.
 ### It's so nice to meet you!
 
 ## Skills
@@ -16,7 +16,7 @@
 - ⚡ Fun fact: Once upon a time, I was a firefighter.
 
 - 📫 How to reach me: 
-- * [Contact Peggy](mailto:pcarambas@gmail.com)
 - * [LinkedIn](https://www.linkedin.com/in/peggy-carambas/)
 - * [GitHub](https://github.com/PCarambas)
+- * [Contact Me](mailto:pcarambas@gmail.com)
 
