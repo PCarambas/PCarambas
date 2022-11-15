@@ -1,9 +1,9 @@
 
-# **Hello there, I'm Peggy Carambas** 👋 ### It's very nice to meet you!
+# **Hello there, I'm Peggy Carambas** 👋 
 
-## Software Developer
+## Software Developer and lover of tech and design that makes living life easier.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwindvscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwind,vscode)](https://skillicons.dev)
   
 
 
