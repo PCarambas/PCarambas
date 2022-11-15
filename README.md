@@ -18,5 +18,5 @@
 - 📫 How to reach me: 
 - * [LinkedIn](https://www.linkedin.com/in/peggy-carambas/)
 - * [GitHub](https://github.com/PCarambas)
-- * [Contact Me](mailto:pcarambas@gmail.com)
+
 
