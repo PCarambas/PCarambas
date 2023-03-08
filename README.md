@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,react,tailwind,vscode)](https://skillicons.dev)
   
 
-- 🌱 I’m currently learning C# at Nashville Software Scool
+- 🌱 I graduated Nashville Software School's full-stack developer bootcamp on 2/17/2023!
 
 - 💬 Ask me about sewing. I love everything to do with it!
 
